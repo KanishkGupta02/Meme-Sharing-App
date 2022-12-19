@@ -1,11 +1,8 @@
 # Meme Sharing App
-<<<<<<< HEAD
- A meme sharing app built using Kotlin integrated with Volley and Gradle Library that uses Reddit-meme api
-=======
- A meme sharing app built using Kotlin integrated with Volley and Gradle Library that uses Reddit-meme api.
- 
->>>>>>> 4980cc7a7f7aa308e1d82d8323e02b2191b10125
- Created a meme-sharing app that uses Volley Library(for networking calls as it’s faster) for making HTTP requests. Added its dependency in gradle:app & added the Internet permission in the manifest file.
+
+ A meme sharing app built using Kotlin integrated with Volley and Gradle Library that uses Reddit-meme api 
+
+Created a meme-sharing app that uses Volley Library(for networking calls as it’s faster) for making HTTP requests. Added its dependency in gradle:app & added the Internet permission in the manifest file.
 Made a load function in MainActivity for making requests and fetching the response and importing the required libraries.
 Made a JsonRequest for fetching the “url”.
 To add the fetched url in the ImageView, the Glide library has been used. Added the following 
